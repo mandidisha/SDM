@@ -47,7 +47,4 @@
 
 ---
 
-## Requirements
-
-```bash
-pip install -r requirements.txt
+Github public repo https://github.com/mandidisha/SDM.git
